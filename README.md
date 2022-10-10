@@ -21,7 +21,7 @@
 <br/>  
 
 # About Me:
-🔭 I’m currently working on a LARAVEL POGECT<br>🌱 I’m currently learning any back-end technology that can help<br>💬 Ask me about memes
+I’m currently working on a LARAVEL POGECT<br>I’m currently learning any back-end technology that can help<br>Ask me about memes
 
 
 ##  Socials:
@@ -34,13 +34,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oumimoun&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oumimoun&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=oumimoun&icon=9&color=12)](https://visitcount.itsvg.in)
-
-
-<br/>  
-
-
+<br/> 
 ## Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
